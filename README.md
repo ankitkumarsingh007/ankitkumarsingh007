@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/the-ankit-kumar-singh/" target="blank"><img align="center" src="https://i.ibb.co/92hfhMZ/social-1834011-640.webp" alt="https://www.linkedin.com/in/the-ankit-kumar-singh/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/snghankitkumar" target="blank"><img align="center" src="https://i.ibb.co/QFRwhX7/CF.png" alt="https://codeforces.com/profile/snghankitkumar" height="30" width="40" /></a>
 <a href="https://leetcode.com/ankit_kumar_singh/" target="blank"><img align="center" src="https://i.ibb.co/hs4HLB8/LC.jpg" alt="https://leetcode.com/ankit_kumar_singh/" height="30" width="40" /></a>
-<a href="/https://auth.geeksforgeeks.org/user/snghankitkumar/practice" target="blank"><img align="center" src="https://i.ibb.co/XyG9XKB/gfg.png" alt="https://auth.geeksforgeeks.org/user/snghankitkumar/practice" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/snghankitkumar/practice" target="blank"><img align="center" src="https://i.ibb.co/XyG9XKB/gfg.png" alt="https://auth.geeksforgeeks.org/user/snghankitkumar/practice" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
